@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Brandon Kester's Blog
 ---
 
 <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <h1>About Me</h1>
+  	<p>I love free software. I am a geek. I am proud of how much of a geek I am. I ask a lot of questions. Music is impossible to live without.</p>
 </div>
