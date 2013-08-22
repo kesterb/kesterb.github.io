@@ -13,21 +13,19 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  background-color: #333;
+  color: #ddd;
+  font: 16px Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #ffaa00; }
+a:hover   { color: #aaa; }
 
 /*****************************************************************************/
 /*
@@ -46,7 +44,6 @@ ul.posts li {
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
 }
 
 /*****************************************************************************/
@@ -56,11 +53,14 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
+  padding: 3em;
   line-height: 1.5em;
+  background-color: #444;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0,0,0,.1);
 }
 
 .site .header a {
@@ -74,20 +74,20 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: #ffaa00;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: #aaa;
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #ffaa00;
   margin-left: 1em;
 }
 
 .site .header a.extra:hover {
-  color: #000;
+  color: #aaa;
 }
 
 .site .meta {
@@ -96,8 +96,8 @@ ul.posts span {
 
 .site .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
+  color: #aaa;
+  border-top: 1px dashed #ddd;
   margin-top: 2em;
   overflow: hidden;
 }

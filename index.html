@@ -4,12 +4,12 @@ title: Brandon Kester's Blog
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h2>Blog Posts</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <h1>About Me</h1>
-  	<p>I love free software. I am a geek. I am proud of how much of a geek I am. I ask a lot of questions. Music is impossible to live without.</p>
+  <h2>About Me</h2>
+  	<p id="about_me">I love free software. I am a geek. I am proud of how much of a geek I am. I ask a lot of questions. Music is impossible to live without.</p>
 </div>
