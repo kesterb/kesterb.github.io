@@ -10,7 +10,7 @@ Limiting permissions is an extremely important part of being a systems administr
 
 Enter the password directive to save us.  The password directive is very simple to understand.  Here is the definition from the GRUB manual:
 
-{% highlight sh %}
+{% highlight bash %}
 password [--md5] passwd [new-config-file]
 {% endhighlight %}
 
@@ -20,7 +20,7 @@ Now for the cool part.  Adding a password will harden GRUB by not allowing users
 
 Another option is to use the lock directive.  The lock directive will prevent execution past the lock keyword unless the correct password is put in.  For example:
 
-{% highlight sh %}
+{% highlight bash %}
 title This entry is too dangerous to be executed by normal users
 lock
 root (hd0,1)

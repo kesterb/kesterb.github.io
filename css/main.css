@@ -15,7 +15,7 @@ html, body { height: 100%; }
 body {
   background-color: #333;
   color: #ddd;
-  font: 16px Helvetica, Arial, sans-serif;
+  font: 16px 'Droid Sans', sans-serif;
   text-align: center;
 }
 
@@ -43,7 +43,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: 'Droid Sans Mono', sans-serif;
 }
 
 /*****************************************************************************/
@@ -60,7 +60,7 @@ ul.posts span {
   line-height: 1.5em;
   background-color: #444;
   border-radius: 10px;
-  box-shadow: 0 3px 10px rgb(0,0,0,.1);
+  box-shadow: 0 3px 10px rgba(0,0,0,.5);
 }
 
 .site .header a {
@@ -128,10 +128,20 @@ ul.posts span {
 /*****************************************************************************/
 
 /* standard */
+
+.highlight {
+  background: #444;
+  padding: 5px;
+}
+
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+  background: #002B36;
+  color: #93A1A1;
+  padding: .4em;
+  border-radius: 10px 10px 0px 0px;
+  border: 1px solid #AAA;
+  border-top: 25px solid #AAA;
+  box-shadow: 0 3px 10px rgba(0,0,0,.75);
 }
 
 .post ul, .post ol {
@@ -139,8 +149,8 @@ ul.posts span {
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  background: #002B36;
+  color: #93A1A1;
   padding: 0 .2em;
 }
 
