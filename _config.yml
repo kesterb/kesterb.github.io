@@ -2,3 +2,5 @@ name: Brandon Kester's Blog
 markdown: redcarpet
 pygments: true
 timezone: America/Los_Angeles
+safe: true
+lsi: false
