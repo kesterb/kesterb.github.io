@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Email systems and weak password stores"
-date: 2013-09-24
+date: 2013-10-01
 category: tech
 tags: security weak passwords email 
 ---
@@ -44,7 +44,7 @@ echo -n "pMnYk+rU5tmi" | base64 -d | xxd -p
 echo -n "oNfTh8PGqarnUOLWoJWY" | base64 -d | xxd -p
 {% endhighlight %}
 
-This gave the follwing outputs.
+This gave the following outputs.
 
 {% highlight text %}
 a4c9d893ead4e6d9a1
@@ -104,7 +104,18 @@ This was looking very promising, so I applied the same process for the longest p
 0x98 - 0x33 = 0x65 = e
 {% endhighlight %}
 
-And just like that we have our constant "The setup proce"
+And just like that we have our constant "The setup proce".  From there I wrote a python function to automate the process.  This function is Python 3 compliant.  If you are having issues with it in Python 2, try stripping off the `.decode('ascii')` functions.
+
+{% highlight python %}
+def decodePass(passBase64):
+	passConst = "The setup proce"
+	passPlain = ""
+	passHex = binascii.b2a_hex(binascii.a2b_base64(passBase64))
+	passConstHex = binascii.b2a_hex(passConst.encode('ascii')).decode('ascii')
+	for i in range(0, len(passHex), 2):
+		passPlain = passPlain + binascii.a2b_hex(hex(int(passHex[i:i+2], 16) - int(passConstHex[i:i+2], 16))[2:]).decode('ascii')
+	return passPlain
+{% endhighlight %}
 
 [Pwderr]: /images/mail-system-1.png "Password error message"
 
