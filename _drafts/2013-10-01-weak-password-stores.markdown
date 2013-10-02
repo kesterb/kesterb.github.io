@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Email systems and weak password stores"
+title: "Weak password stores"
 date: 2013-10-01
 category: tech
-tags: security weak passwords email 
+tags: security weak password stores email 
 ---
 
 As a sysadmin I come into contact with a lot of email systems. Being a curious person I tend to want to know how the systems work under the hood. Some times the password limitations of the system give a way clues about the password system. Other times looking at the actual password store reveals much. In two of the email systems I have managed there were glaring issues with the password management. I'm not going to name these email systems outright, but you may be able to figure out what they are from the clues provided.
