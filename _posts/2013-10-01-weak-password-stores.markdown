@@ -107,6 +107,8 @@ This was looking very promising, so I applied the same process for the longest p
 And just like that we have our constant "The setup proce".  From there I wrote a python function to automate the process.  This function is Python 3 compliant.  If you are having issues with it in Python 2, try stripping off the `.decode('ascii')` functions.
 
 {% highlight python %}
+import binascii
+...
 def decodePass(passBase64):
 	passConst = "The setup proce"
 	passPlain = ""
@@ -116,6 +118,8 @@ def decodePass(passBase64):
 		passPlain = passPlain + binascii.a2b_hex(hex(int(passHex[i:i+2], 16) - int(passConstHex[i:i+2], 16))[2:]).decode('ascii')
 	return passPlain
 {% endhighlight %}
+
+Part two of this post will be coming out soon which will describe the password decoding process for the second mail system.
 
 [Pwderr]: /images/mail-system-1.png "Password error message"
 
