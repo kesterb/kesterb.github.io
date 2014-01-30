@@ -139,7 +139,6 @@ ul.posts span {
 .highlight {
   background: #444;
   padding: 5px;
-  overflow: auto;
 }
 
 .post pre {
@@ -150,6 +149,7 @@ ul.posts span {
   border: 1px solid #AAA;
   border-top: 25px solid #AAA;
   box-shadow: 0 3px 10px rgba(0,0,0,.75);
+  overflow: auto;
 }
 
 .post ul, .post ol {
