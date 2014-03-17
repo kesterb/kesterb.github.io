@@ -8,7 +8,7 @@ tags: tech privacy security arch linux full disk encryption uefi dm-crypt
 
 This is a guide for those of you who are interested in setting up a full disk encrypted Arch Linux environment on a UEFI capable system.  The Arch Wiki has fantastic information on all of the procedures outlined below, but I thought it would be nice to have all of this information condensed.  One thing I intentionally left out of this guide was how to securely prepare your hard drive for use before beginning.  The Arch Wiki has a very straightforward article on that [which you should read][1] before proceeding.
 
-This first step is to get our language and locale set up.
+After booting into the installation environment the first step is to get our language and locale set up.
 {% highlight bash %}
 nano /etc/locale.gen
 	# File contents
