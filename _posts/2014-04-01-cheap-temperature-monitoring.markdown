@@ -26,6 +26,13 @@ Below is a list of parts that I used for this project.  I tried to include every
 The wiring solution I used is based on the one recommend in the [tutorial][Tutorial Wiring] on the Adafruit site.  I did lay out the components a bit differently as you can see below in this detailed view, though.  I would recommend going through their full tutorial to get a feel for utilizing the temperature sensor.
 [![Detailed view of the circuit board][Detail]](/images/2014-03-29_circuit_large.jpg)
 
+You will need to make sure that your kernel loads the modules w1-gpio and w1-therm at start up.  You can do this by inserting the following lines at the end of /etc/modules.  You will then need to reboot or use modprobe to insert these two modules.
+
+{% highlight text %}
+w1-gpio
+w1-therm
+{% endhighlight %}
+
 The code I used was based on the code from the Adafruit [tutorial][Tutorial Software], but modified to only output degrees Fahrenheit.  I saved this Python script at /home/pi/temp.py
 
 {% highlight python %}
