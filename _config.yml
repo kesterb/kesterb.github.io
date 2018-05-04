@@ -1,6 +1,6 @@
 name: Brandon Kester's Blog
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 timezone: America/Los_Angeles
 safe: true
 lsi: false
