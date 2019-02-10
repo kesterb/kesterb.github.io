@@ -3,12 +3,12 @@ layout: post
 title: "Weak password stores"
 date: 2013-10-01
 category: tech
-tags: security weak password stores email 
+tags: security weak password stores email
 ---
 
 As a sysadmin I come into contact with a lot of email systems. Being a curious person I tend to want to know how the systems work under the hood. Some times the password limitations of the system give a way clues about the password system. Other times looking at the actual password store reveals much. In two of the email systems I have managed there were glaring issues with the password management. I'm not going to name these email systems outright, but you may be able to figure out what they are from the clues provided.
 
-The first mail system I will refer to as Mail1.  One of the things that made me raise an eyebrow was the password policy for the system.  When updating a password on Mail1 I was presented with the following error message. 
+The first mail system I will refer to as Mail1.  One of the things that made me raise an eyebrow was the password policy for the system.  When updating a password on Mail1 I was presented with the following error message.
 
 ![Passwords must be between 4 and 15 characters.][Pwderr]
 
