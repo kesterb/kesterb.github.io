@@ -1,4 +1,6 @@
-name: Brandon Kester's Blog
+name: Brandon Kester
+description: My thoughts, and projects
+url: https://www.brandonkester.com/
 highlighter: rouge
 timezone: America/Los_Angeles
 safe: true
