@@ -1,5 +1,4 @@
 name: Brandon Kester's Blog
-markdown: redcarpet
 highlighter: rouge
 timezone: America/Los_Angeles
 safe: true
