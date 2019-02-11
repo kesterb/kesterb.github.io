@@ -8,7 +8,7 @@ tags: beef bourguignon stew cooking instant pot pressure cooker
 
 This is a seriously tasty upgrade to traditional beef stew.  The addition of
 bacon and red wine really take this stew to the next level.  I'm making this in
-a 6 quart pressure cooker, so you may need to scale this accordingly.
+a 6 quart pressure cooker so you may need to scale this accordingly.
 
 [![Beef Bourguignon stew in a bowl][Stew]](/images/2019-02-10-beef_bourguignon.jpg)
 
