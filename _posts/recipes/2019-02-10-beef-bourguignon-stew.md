@@ -42,28 +42,28 @@ Directions
 ----------
 
 1. Slice up your veggies and meat.
-2. In a large bowl, combine the **beef stock**, **pinot noir**, **Worcestershire sauce**
+2. In a large bowl combine the **beef stock**, **pinot noir**, **Worcestershire sauce**
 and **tomato paste**.  You'll want to have this ready to deglaze the pot in step 5.
-3. Coat the **beef** in a mixture of *all-purpose flour*, **salt**, and **pepper**.
-4. Set your pressure cooker to saute mode and when it's warm, add the **bacon** and
-**shallots**.  Cook until the **bacon** is a crunch brown, then remove both **bacon** and
+3. Coat the **beef** in a mixture of **all-purpose flour**, **salt**, and **pepper**.
+4. Set your pressure cooker to saute mode and when it's hot add the **bacon** and
+**shallots**.  Cook until the **bacon** is a crunch brown then remove both **bacon** and
 **shallots** using a slotted spoon.
 5. Brown the flour coated **beef** in the bacon fat in batches.  This will build up
 a layer of [fond][deglazing] in the pot, which is desired.  When the last batch of
-beef is finishing up, add the **garlic** for the last minute.  This should be just
+beef is finishing up add the **garlic** for the last minute.  This should be just
 enough to brown the garlic.
 6. [Deglaze][deglazing] the pot with the liquid you mixed up in step 2.  Make
 sure you add all of the liquid to the pot.
 7. Add all of the **beef** and about one-third of the **shallots** to the pot
 and put the lid on your pressure cooker.  Set your pressure cooker to manual
-mode and turn on high pressure for 10 minutes.  After the timer goes off, let
-the pressure dissipate for about 5 minutes, then open the steam vent.
+mode and turn on high pressure for 10 minutes.  After the timer goes off let
+the pressure dissipate for about 5 minutes then open the steam vent.
 8. Remove the lid and add the **potatoes**, **carrots**, **celery**, **bacon**,
 **rosemary**, **thyme**, **bay leaves**, and remaining **shallots**.  Put the
 lid on and close the steam vent.  Set the pot to manual mode again and set the
-timer for 15 minutes.  Once the timer goes off, let the pot depressurize for
-about 10 minutes, then open the steam vent.
-9. If the stew isn't thick enough, mix together one teaspoon of **cornstarch**
+timer for 15 minutes.  Once the timer goes off let the pot depressurize for
+about 10 minutes then open the steam vent.
+9. If the stew isn't thick enough mix together one teaspoon of **cornstarch**
 and two tablespoons of **water** in a separate bowl.  Then stir this mixture into
 the stew.  Repeat as necessary.
 10. Season the stew with **salt** and **pepper** to taste.

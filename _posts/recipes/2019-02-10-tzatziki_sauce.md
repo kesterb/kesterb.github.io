@@ -29,13 +29,13 @@ Ingredients
 Directions
 ----------
 
-1. In a large bowl, add the **olive oil** and pressed **garlic**.
+1. In a large bowl add the **olive oil** and pressed **garlic**.
 2. Add the **lemon juice** and lightly whisk together.
-3. In a separate shallow bowl, use a fine cheese grater to shred the
+3. In a separate shallow bowl use a fine cheese grater to shred the
 **cucumber**.  Put the shredded cucumber in a kitchen or tea towel to remove
 most of the liquid.  Allow a few minutes to drain.
-4. In the first bowl, add the **greek yogurt**, **dill**, **salt**, and **pepper**.  
+4. In the first bowl add the **greek yogurt**, **dill**, **salt**, and **pepper**.  
 Whisk the ingredients together and adjust the seasonings to your preference.
-5. Using a spatula, fold in the shredded **cucumber** until evenly distributed.
+5. Using a spatula fold in the shredded **cucumber** until evenly distributed.
 6. Place in a storage container and refrigerate for about a day.  This will
 allow the garlic to mellow out and the flavors to meld together.
