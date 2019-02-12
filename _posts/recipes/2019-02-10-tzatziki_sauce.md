@@ -10,6 +10,8 @@ I love making a big batch of this tzatziki sauce because it can be used in so
 many different ways.  I use in pitas, as salad dressing, as a veggie dip, and
 as a topping for baked potatoes.  It's a really versatile sauce!
 
+[![Tzatziki sauce in bowl with carrots in background][Tzatziki]](/images/2019-02-10_tzatziki_sauce.jpg)
+
 | Active time | Rest time   | Total Time  |
 |-------------|-------------|-------------|
 | 20 minutes  | 1 day       | About 1 day |
@@ -39,3 +41,5 @@ Whisk the ingredients together and adjust the seasonings to your preference.
 5. Using a spatula fold in the shredded **cucumber** until evenly distributed.
 6. Place in a storage container and refrigerate for about a day.  This will
 allow the garlic to mellow out and the flavors to meld together.
+
+[Tzatziki]: /images/2019-02-10_tzatziki_sauce_small.jpg "Click for larger image"
