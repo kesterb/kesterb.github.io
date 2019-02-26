@@ -24,7 +24,7 @@ Ingredients
 - 3 **serrano peppers**, diced
 - 1 medium **red onion**, diced
 - 1 tbsp **olive oil**
-- 6 **cloves garlic**, diced
+- 6 cloves **garlic**, diced
 - 1 tbsp **ginger**, diced
 - 1 tsp ground **turmeric**
 - 2 tsp ground **cumin**
