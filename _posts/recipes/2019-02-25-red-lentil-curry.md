@@ -20,7 +20,7 @@ Ingredients
 - 12 oz **red lentils**
 - 12 oz **golden raisins**
 - 28 fl oz **crushed tomatoes**
-- 4 **medium bell peppers**, chopped
+- 4 medium **bell peppers**, chopped
 - 3 **serrano peppers**, diced
 - 1 medium **red onion**, diced
 - 1 tbsp **olive oil**
