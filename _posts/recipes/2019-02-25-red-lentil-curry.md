@@ -10,7 +10,7 @@ This is another meal I like to make in my pressure cooker.  This curry is sweet,
 
 [![Red Lentil Curry in a bowl with rice][Curry]](/images/2019-02-25-red-lentil-curry.jpg)
 
-| Active Time | Cooking Time | Total Time  |
+| Active Time | Inactive Time | Total Time  |
 |-------------|--------------|-------------|
 | 30 minutes  | 22 minutes   | 52 minutes  |
 
